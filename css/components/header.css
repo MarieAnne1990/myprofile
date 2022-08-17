@@ -1,0 +1,12 @@
+.header {
+    background-color: #FAD4C0;
+    color:black;
+    font-family: "Cambon",serif;
+    font-size: 150px;
+    text-justify: distribute-all-lines;
+}
+
+.header h1{
+    color:black;
+    font-size: 100px;
+}

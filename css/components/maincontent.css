@@ -1,0 +1,19 @@
+.maincontent{
+    color: black;
+    background-color: #64B6AC;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+
+.maincontent h2{
+    color:whitesmoke;
+    font-family: "Cambon",serif;
+    text-align: center;
+}
+
+.list-inline2 {
+    margin-left: -10px;
+}
